@@ -1,6 +1,6 @@
 # Overview
 
-{Important!  Do not say in this section that this is college assignment.  Talk about what you are trying to accomplish as a software engineer to further your learning.}
+I am working throught to set up a path in order to constently keeping my code in github as I personally continue to use it
 
 {Provide a description of your software}
 
