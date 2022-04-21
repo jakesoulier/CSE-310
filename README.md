@@ -1,23 +1,19 @@
 # Overview
 
-I am working throught to set up a path in order to constently keeping my code in github as I personally continue to use it
+I am working throught to set up a path in order to constantly keeping my code in github as I personally continue to use it.
 
-{Provide a description of your software}
+The software is the same as every program that is very first created, a line to print out, "hello world".
 
-{Describe your purpose for creating this software.}
+The purpose for this software is to show how to connect my code and GitHub.
 
-{Provide a link to your YouTube demonstration.  It should be a one minute demo of the software running and a walkthrough of the code.}
-
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://www.youtube.com/watch?v=NTZFci6LUQE&ab_channel=jakesoulier)
 
 # Development Environment
 
-{Describe the tools that you used to develop the software}
+The main tools I used was visual studio code and github.
 
-{Describe the programming language that you used}
+I used the python coding language.
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
-* [Web Site Name](http://url.link.goes.here)
-* [Web Site Name](http://url.link.goes.here)
+* [GitHub Repository](https://github.com/jakesoulier/CSE-310)
